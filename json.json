@@ -1,0 +1,15 @@
+{
+	"exe": "https://cdn.discordapp.com/attachments/678027802838302730/715413885707878481/krnl.exe",
+	"bootstrapper": "https://cdn.discordapp.com/attachments/678027802838302730/715421050577616966/krnl_bootstrapper_console_version.exe",
+	"bootstrapper_hash": "bootsy_hash",
+	"dlls": [
+		"https://cdn.discordapp.com/attachments/575413395688259585/715336215284547696/CefSharp.dll",
+		"https://cdn.discordapp.com/attachments/575413395688259585/715336215066312724/CefSharp.WinForms.dll",
+		"https://cdn.discordapp.com/attachments/575413395688259585/715336227510812802/CefSharp.Core.dll",
+		"https://cdn.discordapp.com/attachments/678027797255553064/710134394454671360/ScintillaNET.dll",
+		"https://cdn.discordapp.com/attachments/678027797255553064/710134385550295162/Bunifu_UI_v1.5.3.dll",
+		"https://cdn.discordapp.com/attachments/678027797255553064/710134380286181436/Indicium-Supra.dll"
+	],
+	"CefSharp": "https://cdn.discordapp.com/attachments/575413395688259585/715336259782049882/src.zip",
+	"Monaco": "https://cdn.discordapp.com/attachments/575413395688259585/715371749650333736/Monaco.zip"
+}
