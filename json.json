@@ -1,6 +1,6 @@
 {
 	"exe": "https://cdn.discordapp.com/attachments/678027802838302730/715422781566615602/krnl.exe",
-	"bootstrapper": "https://cdn.discordapp.com/attachments/678027802838302730/715427880271740948/krnl_bootstrapper_console_version.exe",
+	"bootstrapper": "https://cdn.discordapp.com/attachments/678027802838302730/715463447822991431/krnl_bootstrapper_console_version.exe",
 	"bootstrapper_hash": "bootsy_hash",
 	"dlls": [
 		"https://cdn.discordapp.com/attachments/575413395688259585/715336215284547696/CefSharp.dll",
